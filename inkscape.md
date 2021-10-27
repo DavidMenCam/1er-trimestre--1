@@ -168,3 +168,12 @@ Por ultimo hice otra con un umbral de luminosidad de 0,250 y la hice de color ro
 -Mi imagen:
 
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/dibujo-spider_man1.svg)
+
+
+
+
+
+Empezamos con el leon mas pequeños sus dimensiones son de 16 ancho y 20 de altura
+
+[Leon 1](https://github.com/DavidMenCam/1er-trimestre/blob/main/leon1.png)
+
